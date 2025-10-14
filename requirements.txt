@@ -1,1 +1,8 @@
+# Basic dependencies
+# Optional NLP & analysis (uncomment as needed)
+# spacy>=3.7,<4.0
+# python -m spacy download en_core_web_sm # if you use spacy
+# textacy>=0.13,<0.14
+# pandas>=2.1,<2.3
+# matplotlib>=3.8,<3.10
 

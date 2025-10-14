@@ -1,3 +1,9 @@
+# Data files
+data/ # Directory for data files
+
+# Heavy powerpoint slides
+slides/*.pptx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
